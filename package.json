@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/andrewsosa/react-dev-tools/issues"
   },
-  "homepage": "https://github.com/andrewsosa/react-dev-tools#readme"
+  "homepage": "https://github.com/andrewsosa/react-dev-tools#readme",
+  "private": false
 }
