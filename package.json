@@ -1,6 +1,6 @@
 {
   "name": "@andrewsosa/react-dev-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set up the React dev tools.",
   "bin": "index.js",
   "author": "Andrew Sosa <andrewsosa.dev>",
