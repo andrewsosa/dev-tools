@@ -2,11 +2,7 @@
   "name": "@andrewsosa/react-dev-tools",
   "version": "1.0.0",
   "description": "Set up the React dev tools.",
-  "main": "install.sh",
   "bin": "index.js",
-  "scripts": {
-    "postinstall": "npm uninstall @andrewsosa/react-dev-tools"
-  },
   "author": "Andrew Sosa <andrewsosa.dev>",
   "license": "MIT",
   "devDependencies": {
@@ -14,13 +10,21 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^22.15.2",
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.14.3",
-    "jest": "^24.9.0",
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "github-content": "^1.0.1"
-  }
+    "github-content": "^1.0.1",
+    "ora": "^3.4.0",
+    "shelljs": "^0.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewsosa/react-dev-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewsosa/react-dev-tools/issues"
+  },
+  "homepage": "https://github.com/andrewsosa/react-dev-tools#readme"
 }
