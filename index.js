@@ -14,7 +14,7 @@ const packages = [
   "eslint-plugin-import",
   // "eslint-plugin-jest",
   "eslint-plugin-prettier",
-  "eslint-plugin-react",
+  // "eslint-plugin-react",
   // "jest",
   "prettier",
 ];
@@ -64,7 +64,7 @@ const downloadGithubConfigs = () =>
 
       const gc = GithubContent({
         owner: "andrewsosa",
-        repo: "react-dev-tools",
+        repo: "dev-tools",
       });
 
       // Download the files from Github
