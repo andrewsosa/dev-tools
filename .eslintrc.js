@@ -3,8 +3,6 @@ module.exports = {
   plugins: ["prettier"],
   rules: {
     "no-console": "off",
-    "consistent-return": "off",
-    "array-callback-return": "off",
     "prettier/prettier": "error",
   },
 };
