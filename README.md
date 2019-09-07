@@ -1,6 +1,13 @@
 # `@andrewsosa/dev-tools`
 [![npm version](https://badge.fury.io/js/%40andrewsosa%2Fdev-tools.svg)](https://badge.fury.io/js/%40andrewsosa%2Fdev-tools)
 
+## Usage
+```bash
+$ npx @andrewsosa/dev-tools
+```
+
+## About
+
 A setup script to install:
 * [**eslint**](https://npmjs.com/eslint)
     * [**eslint-config-airbnb-base**](https://npmjs.com/eslint-config-airbnb-base)
