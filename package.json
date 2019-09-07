@@ -2,22 +2,9 @@
   "name": "@andrewsosa/dev-tools",
   "version": "1.0.2",
   "description": "Set up the node dev tools.",
-  "bin": "index.js",
+  "bin": "install.sh",
   "author": "Andrew Sosa <andrewsosa.dev>",
   "license": "MIT",
-  "devDependencies": {
-    "eslint": "^6.3.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-prettier": "^6.2.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-prettier": "^3.1.0",
-    "prettier": "^1.18.2"
-  },
-  "dependencies": {
-    "github-content": "^1.0.1",
-    "ora": "^3.4.0",
-    "shelljs": "^0.8.3"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andrewsosa/react-dev-tools.git"
@@ -26,5 +13,13 @@
     "url": "https://github.com/andrewsosa/react-dev-tools/issues"
   },
   "homepage": "https://github.com/andrewsosa/react-dev-tools#readme",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  }
 }
