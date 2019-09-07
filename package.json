@@ -1,6 +1,6 @@
 {
   "name": "@andrewsosa/dev-tools",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Set up the node dev tools.",
   "bin": "install.sh",
   "author": "Andrew Sosa <andrewsosa.dev>",
