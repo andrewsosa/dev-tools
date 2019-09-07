@@ -14,6 +14,9 @@
   },
   "homepage": "https://github.com/andrewsosa/react-dev-tools#readme",
   "private": false,
+  "scripts": {
+    "postversion": "git push"
+  },
   "devDependencies": {
     "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",
