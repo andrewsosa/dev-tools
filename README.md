@@ -1,4 +1,4 @@
-# `@andrewsosa/dev-tools`
+# [`@andrewsosa/dev-tools`](https://www.npmjs.com/package/@andrewsosa/dev-tools)
 [![npm version](https://badge.fury.io/js/%40andrewsosa%2Fdev-tools.svg)](https://badge.fury.io/js/%40andrewsosa%2Fdev-tools)
 
 ## Usage
