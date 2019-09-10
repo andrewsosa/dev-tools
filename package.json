@@ -1,6 +1,6 @@
 {
   "name": "@andrewsosa/dev-tools",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Set up the node dev tools.",
   "bin": "index.js",
   "author": "Andrew Sosa <andrewsosa.dev>",
