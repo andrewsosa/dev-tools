@@ -3,15 +3,19 @@
 
 ## Usage
 ```bash
-$ npx @andrewsosa/dev-tools
+$ npx @andrewsosa/dev-tools [--react] | bash -
 ```
 
 ## About
 
 A setup script to install:
 * [**eslint**](https://npmjs.com/eslint)
-    * [**eslint-config-airbnb-base**](https://npmjs.com/eslint-config-airbnb-base)
-    * [**eslint-plugin-import**](https://npmjs.com/eslint-plugin-import)
+    + [**eslint-plugin-import**](https://npmjs.com/eslint-plugin-import)
+    + [**eslint-config-airbnb-base**](https://npmjs.com/eslint-config-airbnb-base)
+    + [**eslint-config-airbnb**](https://npmjs.com/eslint-config-airbnb) _(react only)_
+    + [**eslint-plugin-jsx-a11y**](https://npmjs.com/eslint-plugin-jsx-a11y) _(react only)_
+    + [**eslint-plugin-react**](https://npmjs.com/eslint-plugin-react) _(react only)_
+    + [**eslint-plugin-react-hooks**](https://npmjs.com/eslint-plugin-react-hooks) _(react only)_
 * [**prettier**](https://npmjs.com/prettier)
     * [**eslint-config-prettier**](https://npmjs.com/eslint-config-prettier)
     * [**eslint-plugin-prettier**](https://npmjs.com/eslint-plugin-prettier)
