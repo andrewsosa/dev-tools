@@ -9,7 +9,7 @@ echo "> Adding eslint extras"
 {% if useReact %}
 npx install-peerdeps --dev eslint-config-airbnb
 {% else %}
-npm install -D eslint-config-airbnb-base eslint-plugin-import
+npx install-peerdeps --dev eslint-config-airbnb-base
 {% endif %}
 
 # install compat for eslint + prettier
